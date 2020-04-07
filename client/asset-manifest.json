@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc7de5fe.chunk.css",
+    "main.js": "/static/js/main.ee32e5c7.chunk.js",
+    "main.js.map": "/static/js/main.ee32e5c7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.888163d4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.888163d4.js.map",
+    "static/js/2.b4076bcd.chunk.js": "/static/js/2.b4076bcd.chunk.js",
+    "static/js/2.b4076bcd.chunk.js.map": "/static/js/2.b4076bcd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b0b253197042df5c4667dec7e0f93d74.js": "/precache-manifest.b0b253197042df5c4667dec7e0f93d74.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.cc7de5fe.chunk.css.map": "/static/css/main.cc7de5fe.chunk.css.map",
+    "static/js/2.b4076bcd.chunk.js.LICENSE.txt": "/static/js/2.b4076bcd.chunk.js.LICENSE.txt",
+    "static/media/plugins.css": "/static/media/themify.e23a7dca.ttf",
+    "static/media/apartment-to-buy-queens.jpg": "/static/media/apartment-to-buy-queens.65007855.jpg",
+    "static/media/styles.css": "/static/media/type.3eaeda35.svg",
+    "static/media/ayse.jpg": "/static/media/ayse.8e2c3743.jpg",
+    "static/media/city.svg": "/static/media/city.861670e8.svg",
+    "static/media/commercial-space-san-francisco.jpg": "/static/media/commercial-space-san-francisco.5e5416a2.jpg",
+    "static/media/defaultGalleryImage.jpg": "/static/media/defaultGalleryImage.bb2ff320.jpg",
+    "static/media/energy-certificate-for-eu.jpg": "/static/media/energy-certificate-for-eu.17337d8a.jpg",
+    "static/media/luxury-home-in-manhattan.jpg": "/static/media/luxury-home-in-manhattan.9fd7486d.jpg",
+    "static/media/new-clue-apartment.jpg": "/static/media/new-clue-apartment.d8ae6533.jpg",
+    "static/media/office-space-toronto.jpg": "/static/media/office-space-toronto.48e588f6.jpg",
+    "static/media/resort-valley-ocs.jpg": "/static/media/resort-valley-ocs.27817fb9.jpg",
+    "static/media/sb.png": "/static/media/sb.4695cb05.png",
+    "static/media/tuna.jpg": "/static/media/tuna.e1e63830.jpg",
+    "static/media/vec-2.png": "/static/media/vec-2.0fe22f53.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.888163d4.js",
+    "static/js/2.b4076bcd.chunk.js",
+    "static/css/main.cc7de5fe.chunk.css",
+    "static/js/main.ee32e5c7.chunk.js"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/staticDash/css/main.eec972be.chunk.css",
+    "main.js": "/staticDash/js/main.b98ede1f.chunk.js",
+    "main.js.map": "/staticDash/js/main.b98ede1f.chunk.js.map",
+    "runtime-main.js": "/staticDash/js/runtime-main.4778f18d.js",
+    "runtime-main.js.map": "/staticDash/js/runtime-main.4778f18d.js.map",
+    "staticDash/js/2.4d6f26eb.chunk.js": "/staticDash/js/2.4d6f26eb.chunk.js",
+    "staticDash/js/2.4d6f26eb.chunk.js.map": "/staticDash/js/2.4d6f26eb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.66a515bf2e0c69da6b92a22e118c2f68.js": "/precache-manifest.66a515bf2e0c69da6b92a22e118c2f68.js",
+    "service-worker.js": "/service-worker.js",
+    "staticDash/css/main.eec972be.chunk.css.map": "/staticDash/css/main.eec972be.chunk.css.map",
+    "staticDash/js/2.4d6f26eb.chunk.js.LICENSE.txt": "/staticDash/js/2.4d6f26eb.chunk.js.LICENSE.txt",
+    "staticDash/media/2.jpg": "/staticDash/media/2.92fb17ec.jpg",
+    "staticDash/media/style.min.css": "/staticDash/media/zw.4c34708b.svg",
+    "staticDash/media/dropify.min.css": "/staticDash/media/dropify.950ffd1e.woff",
+    "staticDash/media/logo-text.png": "/staticDash/media/logo-text.d9b4a981.png"
+  },
+  "entrypoints": [
+    "staticDash/js/runtime-main.4778f18d.js",
+    "staticDash/js/2.4d6f26eb.chunk.js",
+    "staticDash/css/main.eec972be.chunk.css",
+    "staticDash/js/main.b98ede1f.chunk.js"
+  ]
+}
